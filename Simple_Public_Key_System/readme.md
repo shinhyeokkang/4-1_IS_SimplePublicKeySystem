@@ -1,4 +1,4 @@
-﻿	How to run this program
+#	How to run this program
 1.	Download 15146301ShinhyeokKang.zip
 2.	Import this file with “Existing Projects into Workspace”
 3.	Select archive file and browse the filepath
@@ -6,7 +6,7 @@
 5.	Now you can find 15146301ShinhyeokKang java folder on the left
 6.	Please run “GUI.java”
 
-	How to use this program
+##	How to use this program
 1.	Run the same program twice
 2.	Set the first console to server and press “Connect!”
 3.	Set the second console to Client and press “Connect!”
@@ -18,7 +18,7 @@
 9.	Test chatting with “send” button and Enter button
 10.	You can see both Ciphertext and Decrypted text
 
-	How to send a file
+## How to send a file
 1.	Press “send file”
 2.	Choose the file you want in File Explorer
 3.	The file will be encrypted and then sent
@@ -26,9 +26,9 @@
 5.	When file saving finished, then “filename 파일 수신완료!” message will be popped up
 6.	You can find saved file in Project folder
 
-Detailed Description
+# Detailed Description
 
-	User Interface
+##	User Interface
  
 1.	Connection Area
 This Area controls connection between Server and Client. You can easily check your connection mode, State, IP Address, and Port Number.  
