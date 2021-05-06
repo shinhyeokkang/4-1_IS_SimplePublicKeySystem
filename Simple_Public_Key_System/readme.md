@@ -10,12 +10,9 @@ In case of File transfer from server, I added digital signature to prevent malic
 
 ##	How to run this program 
 
- 1.	Download 15146301ShinhyeokKang.zip
- 2.	Import this file with “Existing Projects into Workspace”
- 3.	Select archive file and browse the filepath
- 4.	Press “Finish” button 
- 5.	Now you can find 15146301ShinhyeokKang java folder on the left
- 6.	Please run “GUI.java”
+ 1.	Download the repository
+ 2.	Import the project
+ 3.	Please run “GUI.java”
 
 ##	How to use this program
 
